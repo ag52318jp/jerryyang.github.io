@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street Photography Gallery on Runfeng Yang</title>
+    <link>/photos/</link>
+    <description>Recent content in Street Photography Gallery on Runfeng Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021@Madrid</title>
+      <link>/photos/2021-madrid/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/2021-madrid/</guid>
+      <description>Mom&amp;amp;Child Metro in the Snow 2021.01 Madrid had its biggest snow in 50 years Sunset in the Lake Took the photo when I was having a walk in the lake of Casa de Campo Encounter At the central street of Alcala, two dogs met each other Christmas Belongs to Childern 2021, Christmas in Madrid. It seems that only children are really having fun with this festival Pondered Woman Royal Peacock Who is the real king/queen here in the palace?</description>
+    </item>
+    
+    <item>
+      <title>2022@Madrid</title>
+      <link>/photos/2022-madrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/2022-madrid/</guid>
+      <description>The Moon Took in January when the night sky was crystal clear. </description>
+    </item>
+    
+  </channel>
+</rss>
