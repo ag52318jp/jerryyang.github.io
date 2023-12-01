@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Runfeng Yang</title>
+    <title>Eureka Demo</title>
     <link>/</link>
-    <description>Recent content on Runfeng Yang</description>
+    <description>Recent content on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
@@ -19,73 +19,128 @@
     </item>
     
     <item>
-      <title>Asset Pricing</title>
-      <link>/esg_inv/chapter_1/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <title>热干面</title>
+      <link>/zh/receipes/example-doc/chapter-1/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/esg_inv/chapter_1/</guid>
-      <description>[ ]{style=&amp;ldquo;color: black&amp;rdquo;}
-[ ]{style=&amp;ldquo;color: black&amp;rdquo;}
-[ ]{style=&amp;ldquo;color: black&amp;rdquo;}
-[]{style=&amp;ldquo;color: black&amp;rdquo;}
-[]{style=&amp;ldquo;color: black&amp;rdquo;}
-Basic Pricing Equation Derivation Assume the current asset price is $p_{t}$, and investors are making choices between consuming today or investing and consuming tomorrow. The utility function of an investor is given by:
-$$U(c_{t},c_{t+1})=U(c_{t})+\beta E_{t}[U(c_{t+1})]$$
-where $U(c_{t})=\frac{1}{1-\gamma}c_{t}^{1-\gamma}$, $\beta$ is the *subjective discount factor*, it means the level of impatience by investors. When $\gamma\rightarrow1$, we have $U(c_{t})\rightarrow Ln(c_{t})$.
-So, the decision of investors is based on:</description>
+      <guid>/zh/receipes/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;这个配方是我2018年从华为巴拿马食堂学过来的&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Diagram Support</title>
-      <link>/esg_inv/diagram-support/</link>
+      <link>/zh/posts/diagram-support/</link>
       <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
       
-      <guid>/esg_inv/diagram-support/</guid>
+      <guid>/zh/posts/diagram-support/</guid>
       <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Support</title>
-      <link>/esg_inv/math-support/</link>
+      <link>/zh/posts/math-support/</link>
       <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
       
-      <guid>/esg_inv/math-support/</guid>
+      <guid>/zh/posts/math-support/</guid>
       <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Chapter 1</title>
+      <link>/zh/photos/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/photos/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/zh/receipes/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/receipes/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/photos/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/photos/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/photos/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/photos/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/receipes/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/receipes/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/receipes/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/receipes/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>热干面做法</title>
+      <link>/zh/photos/example-doc/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/photos/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Featured Image</title>
-      <link>/esg_inv/featured-image/</link>
+      <link>/zh/posts/featured-image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/esg_inv/featured-image/</guid>
+      <guid>/zh/posts/featured-image/</guid>
       <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>/esg_inv/markdown-syntax/</link>
+      <link>/zh/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/esg_inv/markdown-syntax/</guid>
+      <guid>/zh/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>/esg_inv/placeholder-text/</link>
+      <link>/zh/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/esg_inv/placeholder-text/</guid>
+      <guid>/zh/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>/esg_inv/emoji-support/</link>
+      <link>/zh/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/esg_inv/emoji-support/</guid>
+      <guid>/zh/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

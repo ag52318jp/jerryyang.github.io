@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on 润峰的空间</title>
+    <title>Authors on Eureka Demo</title>
     <link>/zh/authors/</link>
-    <description>Recent content in Authors on 润峰的空间</description>
+    <description>Recent content in Authors on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example Author</title>
-      <link>/zh/authors/example-author/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
-      
-      <guid>/zh/authors/example-author/</guid>
-      <description>Self Introduction Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Authors</title>
-      <link>/zh/authors/hugo-authors/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/authors/hugo-authors/</guid>
-      <description>Vestibulum vel arcu Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus.</description>
-    </item>
-    
+</copyright><atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
